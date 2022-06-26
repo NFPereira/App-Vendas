@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "git-all": "^0.0.3"
+  }
+}
